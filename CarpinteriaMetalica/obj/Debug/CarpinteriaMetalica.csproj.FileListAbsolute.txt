@@ -1,0 +1,11 @@
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\CarpinteriaMetalica\bin\Debug\CarpinteriaMetalica.exe.config
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\CarpinteriaMetalica\bin\Debug\CarpinteriaMetalica.exe
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\CarpinteriaMetalica\bin\Debug\CarpinteriaMetalica.pdb
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\CarpinteriaMetalica\obj\Debug\CarpinteriaMetalica.csproj.AssemblyReference.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\CarpinteriaMetalica\obj\Debug\CarpinteriaMetalica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\CarpinteriaMetalica\obj\Debug\CarpinteriaMetalica.Properties.Resources.resources
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\CarpinteriaMetalica\obj\Debug\CarpinteriaMetalica.csproj.GenerateResource.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\CarpinteriaMetalica\obj\Debug\CarpinteriaMetalica.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\CarpinteriaMetalica\obj\Debug\CarpinteriaMetalica.exe
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\CarpinteriaMetalica\obj\Debug\CarpinteriaMetalica.pdb
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\CarpinteriaMetalica\obj\Debug\CarpinteriaMetalica.Presentacion.Principal.resources
