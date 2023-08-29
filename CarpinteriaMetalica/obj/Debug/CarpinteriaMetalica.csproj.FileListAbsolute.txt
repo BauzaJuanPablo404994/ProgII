@@ -9,3 +9,15 @@ C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\CarpinteriaMetalica\
 C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\CarpinteriaMetalica\obj\Debug\CarpinteriaMetalica.exe
 C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\CarpinteriaMetalica\obj\Debug\CarpinteriaMetalica.pdb
 C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\CarpinteriaMetalica\obj\Debug\CarpinteriaMetalica.Presentacion.Principal.resources
+C:\Users\Juan\Desktop\FACULTAD\Programacion\repo_progII\ProgII\CarpinteriaMetalica\bin\Debug\CarpinteriaMetalica.exe.config
+C:\Users\Juan\Desktop\FACULTAD\Programacion\repo_progII\ProgII\CarpinteriaMetalica\bin\Debug\CarpinteriaMetalica.exe
+C:\Users\Juan\Desktop\FACULTAD\Programacion\repo_progII\ProgII\CarpinteriaMetalica\bin\Debug\CarpinteriaMetalica.pdb
+C:\Users\Juan\Desktop\FACULTAD\Programacion\repo_progII\ProgII\CarpinteriaMetalica\obj\Debug\CarpinteriaMetalica.csproj.AssemblyReference.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\repo_progII\ProgII\CarpinteriaMetalica\obj\Debug\CarpinteriaMetalica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\repo_progII\ProgII\CarpinteriaMetalica\obj\Debug\CarpinteriaMetalica.Presentacion.frmNuevoPresupuesto.resources
+C:\Users\Juan\Desktop\FACULTAD\Programacion\repo_progII\ProgII\CarpinteriaMetalica\obj\Debug\CarpinteriaMetalica.Presentacion.frmPrincipal.resources
+C:\Users\Juan\Desktop\FACULTAD\Programacion\repo_progII\ProgII\CarpinteriaMetalica\obj\Debug\CarpinteriaMetalica.Properties.Resources.resources
+C:\Users\Juan\Desktop\FACULTAD\Programacion\repo_progII\ProgII\CarpinteriaMetalica\obj\Debug\CarpinteriaMetalica.csproj.GenerateResource.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\repo_progII\ProgII\CarpinteriaMetalica\obj\Debug\CarpinteriaMetalica.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\repo_progII\ProgII\CarpinteriaMetalica\obj\Debug\CarpinteriaMetalica.exe
+C:\Users\Juan\Desktop\FACULTAD\Programacion\repo_progII\ProgII\CarpinteriaMetalica\obj\Debug\CarpinteriaMetalica.pdb

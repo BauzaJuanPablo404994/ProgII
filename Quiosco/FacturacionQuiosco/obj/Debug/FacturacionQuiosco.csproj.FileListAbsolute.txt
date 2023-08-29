@@ -1,0 +1,12 @@
+C:\Users\Juan\Desktop\FACULTAD\Programacion\repo_progII\ProgII\Quiosco\FacturacionQuiosco\bin\Debug\FacturacionQuiosco.exe.config
+C:\Users\Juan\Desktop\FACULTAD\Programacion\repo_progII\ProgII\Quiosco\FacturacionQuiosco\bin\Debug\FacturacionQuiosco.exe
+C:\Users\Juan\Desktop\FACULTAD\Programacion\repo_progII\ProgII\Quiosco\FacturacionQuiosco\bin\Debug\FacturacionQuiosco.pdb
+C:\Users\Juan\Desktop\FACULTAD\Programacion\repo_progII\ProgII\Quiosco\FacturacionQuiosco\obj\Debug\FacturacionQuiosco.csproj.AssemblyReference.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\repo_progII\ProgII\Quiosco\FacturacionQuiosco\obj\Debug\FacturacionQuiosco.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\repo_progII\ProgII\Quiosco\FacturacionQuiosco\obj\Debug\FacturacionQuiosco.Properties.Resources.resources
+C:\Users\Juan\Desktop\FACULTAD\Programacion\repo_progII\ProgII\Quiosco\FacturacionQuiosco\obj\Debug\FacturacionQuiosco.csproj.GenerateResource.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\repo_progII\ProgII\Quiosco\FacturacionQuiosco\obj\Debug\FacturacionQuiosco.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\repo_progII\ProgII\Quiosco\FacturacionQuiosco\obj\Debug\FacturacionQuiosco.exe
+C:\Users\Juan\Desktop\FACULTAD\Programacion\repo_progII\ProgII\Quiosco\FacturacionQuiosco\obj\Debug\FacturacionQuiosco.pdb
+C:\Users\Juan\Desktop\FACULTAD\Programacion\repo_progII\ProgII\Quiosco\FacturacionQuiosco\obj\Debug\FacturacionQuiosco.View.frmMenuPrincipal.resources
+C:\Users\Juan\Desktop\FACULTAD\Programacion\repo_progII\ProgII\Quiosco\FacturacionQuiosco\obj\Debug\FacturacionQuiosco.View.frmNuevaFactura.resources

@@ -1,12 +1,11 @@
-﻿using CarpinteriaMetalica.Presentacion;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Security.Permissions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using FacturacionQuiosco.View;
 
-namespace CarpinteriaMetalica
+namespace FacturacionQuiosco
 {
     internal static class Program
     {
@@ -18,7 +17,7 @@ namespace CarpinteriaMetalica
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmNuevoPresupuesto());
+            Application.Run(new frmNuevaFactura());
         }
     }
 }
